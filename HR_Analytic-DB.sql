@@ -1,8 +1,8 @@
 CREATE TABLE Employee(
   employee_id INT PRIMARY KEY,
-  first_name VARCHAR(20),
-  last_name VARCHAR(20),
-  email NVARCHAR(320),
+  first_name NVARCHAR(40),
+  last_name NVARCHAR(20),
+  email NVARCHAR(60),
   hire_date DATE,
   id_team INT
 );
