@@ -2,7 +2,7 @@
 The name of the project is HR-Analytic.
 
 ## There are a total of 6 questions, as follows:
-  #### Create a aatabase.
+  #### Create a database.
   1. Create a database from 3 tables consisting of employee data, salary data, and team data.
   #### Data query.
   2. Who are the employees of the company?   
