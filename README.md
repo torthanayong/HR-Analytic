@@ -1,10 +1,10 @@
 # This is a SQL problem from Datayolk.
 The name of the project is HR-Analytic.
 
-# There are a total of 6 questions as follows:
-  **Create a Database.** /
+## There are a total of 6 questions as follows:
+  #### Create a Database.
   1.Create a Database from 3 tables consisting of Employee data, Salary data, and Team data.
-  **Data query.** /
+  #### Data query.
   2.Who are the employees of the company? 
     What position do they hold? 
     How much is the salary? 
